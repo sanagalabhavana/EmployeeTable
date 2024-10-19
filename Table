@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            width:80px;
+            height:50px;
+            border-collapse: collapse;   
+            
+           }
+           td,th{
+            width: 80px;
+            height:50px;
+            border: 1px solid black;
+            text-align: center;
+           }
+
+        
+    </style>
+</head>
+<body>
+    <table align="center">
+        <tr>
+            <th>Name</th>
+            <th>Id</th>
+            <th>destination</th>
+            <th>salary</th>
+        </tr>
+        <tr>
+            <td>S.Bhavana</td>
+            <td>3051</td>
+            <td>manager</td>
+            <td>50k</td>
+        </tr>
+        <tr>
+            <td>A.Bhavana</td>
+            <td>3005</td>
+            <td>CEO</td>
+            <td>60k</td>
+        </tr>
+        <tr>
+            <td>k.Divya</td>
+            <td>3028</td>
+            <td>employee</td>
+            <td>20k</td>
+        </tr>
+        <tr>
+            <td>s.nandini</td>
+            <td>3050</td>
+            <td>employee</td>
+            <td>20k</td>
+        </tr>
+        <tr>
+            <td>c.teju</td>
+            <td>3008</td>
+            <td>employee</td>
+            <td>20k</td>
+        </tr>
+    </table>
+</body>
+</html>
